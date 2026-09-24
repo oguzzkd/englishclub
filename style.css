@@ -49,18 +49,17 @@ body {
     writing-mode: vertical-rl;
     text-orientation: mixed;
     transform: rotate(180deg);
-    font-size: 7rem;
+    font-size: 6rem;
     font-weight: 900;
-    line-height: 0.8;
+    line-height: 0.9;
     margin-top: 1rem;
-    letter-spacing: -5px;
+    letter-spacing: 2px;
     text-transform: uppercase;
-    font-family: sans-serif;
+    font-family: 'Space Mono', monospace, sans-serif;
 }
 
 .club-text {
-    color: transparent;
-    -webkit-text-stroke: 3px var(--text-color);
+    color: var(--text-color);
 }
 
 .subtitle {
@@ -114,11 +113,27 @@ body {
     border-bottom: 4px solid var(--border-color);
     padding: 0.5rem 1rem;
     display: flex;
-    justify-content: space-between;
+    gap: 1rem;
     font-weight: bold;
     font-family: 'VT323', monospace;
     font-size: 1.5rem;
     align-items: center;
+}
+
+.window-dots {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.window-dots span {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 2px solid var(--border-color);
+    background: #ffffff;
+    display: inline-block;
 }
 
 .event-window .window-header {
@@ -254,38 +269,53 @@ body {
 }
 
 @media (max-width: 768px) {
+    html, body {
+        overflow-x: hidden;
+    }
+
     .container {
         flex-direction: column;
+        padding: 1rem;
+        padding-bottom: 4rem;
+        min-height: auto;
     }
     
     .vertical-text {
         writing-mode: horizontal-tb;
         transform: none;
-        font-size: 4rem;
+        font-size: 2.8rem;
         margin-top: 0;
+        letter-spacing: 0px;
     }
     
     .sidebar {
         width: 100%;
-        margin-bottom: 2rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .content {
+        padding: 0;
+        gap: 2rem;
     }
     
     .window {
         width: 100%;
+        max-width: 100%;
         align-self: center;
+        box-shadow: 6px 6px 0 rgba(0,0,0,1);
     }
     
     .window-header {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
         padding: 0.4rem 0.8rem;
     }
 
     .window-content {
-        padding: 1.2rem;
+        padding: 1rem;
     }
 
     .window-content h2 {
-        font-size: 1.4rem;
+        font-size: 1.3rem;
     }
 
     .window-content p {
@@ -293,12 +323,18 @@ body {
     }
 
     .retro-btn {
-        font-size: 1.1rem;
-        padding: 0.7rem 1.2rem;
+        font-size: 1rem;
+        padding: 0.6rem 1rem;
+        box-shadow: 4px 4px 0 rgba(0,0,0,1);
     }
 
     #contact-info {
-        font-size: 1rem;
-        padding: 1rem;
+        font-size: 0.95rem;
+        padding: 0.8rem;
+        word-break: break-word;
+    }
+
+    .decorations {
+        display: none;
     }
 }
