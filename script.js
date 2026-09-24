@@ -22,4 +22,15 @@ document.addEventListener('DOMContentLoaded', () => {
         contactInfo.classList.remove('hidden');
         revealBtn.classList.add('hidden');
     });
+
+    // Obfuscate WhatsApp link on Event card
+    const waPart1 = 'https://chat.whatsapp';
+    const waPart2 = '.com/FTtk89H1M074cmBfS0l9oT';
+    const waBtn = document.getElementById('whatsapp-btn');
+    if (waBtn) {
+        waBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            window.open(waPart1 + waPart2, '_blank', 'noopener,noreferrer');
+        });
+    }
 });
