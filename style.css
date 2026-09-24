@@ -103,6 +103,11 @@ body {
     animation-delay: 0s;
 }
 
+.location-window {
+    align-self: center;
+    animation-delay: 1s;
+}
+
 .contact-window {
     align-self: flex-end;
     animation-delay: 2s;
