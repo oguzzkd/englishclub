@@ -1,0 +1,838 @@
+[
+    {
+        "id": 1,
+        "category": "SHORT VOWEL",
+        "subcategory": "Short A sound",
+        "phoneme": "/\u00e6/",
+        "words": [
+            {
+                "word": "apple",
+                "audio": "audio/apple.mp3",
+                "highlightedWord": "<span class=\"highlight\">a</span>pple"
+            },
+            {
+                "word": "after",
+                "audio": "audio/after.mp3",
+                "highlightedWord": "<span class=\"highlight\">a</span>fter"
+            }
+        ],
+        "tip": "Drop your jaw significantly, keep your tongue low and flat, and rest the tip of your tongue behind your bottom front teeth."
+    },
+    {
+        "id": 2,
+        "category": "SHORT VOWEL",
+        "subcategory": "Short E sound",
+        "phoneme": "/\u025b/",
+        "words": [
+            {
+                "word": "every",
+                "audio": "audio/every.mp3",
+                "highlightedWord": "<span class=\"highlight\">e</span>very"
+            },
+            {
+                "word": "pen",
+                "audio": "audio/pen.mp3",
+                "highlightedWord": "p<span class=\"highlight\">e</span>n"
+            }
+        ],
+        "tip": "Open your mouth slightly, relax your lips, and place your tongue in the middle of your mouth."
+    },
+    {
+        "id": 3,
+        "category": "SHORT VOWEL",
+        "subcategory": "Short I sound",
+        "phoneme": "/\u026a/",
+        "words": [
+            {
+                "word": "interest",
+                "audio": "audio/interest.mp3",
+                "highlightedWord": "<span class=\"highlight\">i</span>nterest"
+            },
+            {
+                "word": "busy",
+                "audio": "audio/busy.mp3",
+                "highlightedWord": "b<span class=\"highlight\">u</span>sy"
+            }
+        ],
+        "tip": "Relax your jaw and lips. Keep your tongue high and slightly forward, but relaxed."
+    },
+    {
+        "id": 4,
+        "category": "SHORT VOWEL",
+        "subcategory": "Short O sound",
+        "phoneme": "/\u0251/",
+        "words": [
+            {
+                "word": "October",
+                "audio": "audio/october.mp3",
+                "highlightedWord": "<span class=\"highlight\">O</span>ctober"
+            },
+            {
+                "word": "water",
+                "audio": "audio/water.mp3",
+                "highlightedWord": "w<span class=\"highlight\">a</span>ter"
+            }
+        ],
+        "tip": "Open your mouth wide, pull your tongue low and back, and keep your lips completely relaxed."
+    },
+    {
+        "id": 5,
+        "category": "SHORT VOWEL",
+        "subcategory": "Short U sound",
+        "phoneme": "/\u028c/",
+        "words": [
+            {
+                "word": "under",
+                "audio": "audio/under.mp3",
+                "highlightedWord": "<span class=\"highlight\">u</span>nder"
+            },
+            {
+                "word": "fun",
+                "audio": "audio/fun.mp3",
+                "highlightedWord": "f<span class=\"highlight\">u</span>n"
+            }
+        ],
+        "tip": "Keep your jaw and lips relaxed and neutral. The sound comes from the very center of your mouth."
+    },
+    {
+        "id": 6,
+        "category": "LONG VOWEL",
+        "subcategory": "Long A sound",
+        "phoneme": "/e\u026a/",
+        "words": [
+            {
+                "word": "make",
+                "audio": "audio/make.mp3",
+                "highlightedWord": "m<span class=\"highlight\">a</span>ke"
+            },
+            {
+                "word": "flavor",
+                "audio": "audio/flavor.mp3",
+                "highlightedWord": "fl<span class=\"highlight\">a</span>vor"
+            }
+        ],
+        "tip": "Start with your mouth slightly open, then move your tongue up and forward while slightly stretching your lips into a smile."
+    },
+    {
+        "id": 7,
+        "category": "LONG VOWEL",
+        "subcategory": "Long E sound",
+        "phoneme": "/i\u02d0/",
+        "words": [
+            {
+                "word": "feet",
+                "audio": "audio/feet.mp3",
+                "highlightedWord": "f<span class=\"highlight\">ee</span>t"
+            },
+            {
+                "word": "evening",
+                "audio": "audio/evening.mp3",
+                "highlightedWord": "<span class=\"highlight\">e</span>vening"
+            }
+        ],
+        "tip": "Stretch your lips into a tight smile, raise your tongue high and forward, with the sides touching your upper back teeth."
+    },
+    {
+        "id": 8,
+        "category": "LONG VOWEL",
+        "subcategory": "Long I sound",
+        "phoneme": "/a\u026a/",
+        "words": [
+            {
+                "word": "lie",
+                "audio": "audio/lie.mp3",
+                "highlightedWord": "l<span class=\"highlight\">ie</span>"
+            },
+            {
+                "word": "night",
+                "audio": "audio/night.mp3",
+                "highlightedWord": "n<span class=\"highlight\">igh</span>t"
+            }
+        ],
+        "tip": "Start with your mouth open wide, then smoothly transition to a smiling position while raising your tongue."
+    },
+    {
+        "id": 9,
+        "category": "LONG VOWEL",
+        "subcategory": "Long O sound",
+        "phoneme": "/o\u028a/",
+        "words": [
+            {
+                "word": "over",
+                "audio": "audio/over.mp3",
+                "highlightedWord": "<span class=\"highlight\">o</span>ver"
+            },
+            {
+                "word": "open",
+                "audio": "audio/open.mp3",
+                "highlightedWord": "<span class=\"highlight\">o</span>pen"
+            }
+        ],
+        "tip": "Start with your mouth rounded, then push your lips forward into a tighter circle as the sound finishes."
+    },
+    {
+        "id": 10,
+        "category": "LONG VOWEL",
+        "subcategory": "Long U sound",
+        "phoneme": "/ju\u02d0/",
+        "words": [
+            {
+                "word": "unique",
+                "audio": "audio/unique.mp3",
+                "highlightedWord": "<span class=\"highlight\">u</span>nique"
+            },
+            {
+                "word": "rescue",
+                "audio": "audio/rescue.mp3",
+                "highlightedWord": "resc<span class=\"highlight\">ue</span>"
+            }
+        ],
+        "tip": "Start with your tongue high against the roof of your mouth, then round your lips tightly and push them forward."
+    },
+    {
+        "id": 11,
+        "category": "LONG VOWEL",
+        "subcategory": "Long OO sound",
+        "phoneme": "/u\u02d0/",
+        "words": [
+            {
+                "word": "flu",
+                "audio": "audio/flu.mp3",
+                "highlightedWord": "fl<span class=\"highlight\">u</span>"
+            },
+            {
+                "word": "blue",
+                "audio": "audio/blue.mp3",
+                "highlightedWord": "bl<span class=\"highlight\">ue</span>"
+            }
+        ],
+        "tip": "Round your lips tightly into a small circle, pull your tongue back and high, and push the sound forward."
+    },
+    {
+        "id": 12,
+        "category": "CONSONANT",
+        "subcategory": "B sound",
+        "phoneme": "/b/",
+        "words": [
+            {
+                "word": "bat",
+                "audio": "audio/bat.mp3",
+                "highlightedWord": "<span class=\"highlight\">b</span>at"
+            },
+            {
+                "word": "bear",
+                "audio": "audio/bear.mp3",
+                "highlightedWord": "<span class=\"highlight\">b</span>ear"
+            }
+        ],
+        "tip": "Press your lips together firmly to stop the air, then release the air with a voiced sound."
+    },
+    {
+        "id": 13,
+        "category": "CONSONANT",
+        "subcategory": "C / K sound",
+        "phoneme": "/k/",
+        "words": [
+            {
+                "word": "care",
+                "audio": "audio/care.mp3",
+                "highlightedWord": "<span class=\"highlight\">c</span>are"
+            },
+            {
+                "word": "kindness",
+                "audio": "audio/kindness.mp3",
+                "highlightedWord": "<span class=\"highlight\">k</span>indness"
+            }
+        ],
+        "tip": "Raise the back of your tongue to touch the roof of your mouth, stopping the air, then release it sharply without voicing."
+    },
+    {
+        "id": 14,
+        "category": "CONSONANT",
+        "subcategory": "D sound",
+        "phoneme": "/d/",
+        "words": [
+            {
+                "word": "dad",
+                "audio": "audio/dad.mp3",
+                "highlightedWord": "<span class=\"highlight\">d</span>ad"
+            },
+            {
+                "word": "different",
+                "audio": "audio/different.mp3",
+                "highlightedWord": "<span class=\"highlight\">d</span>ifferent"
+            }
+        ],
+        "tip": "Place the tip of your tongue against the ridge just behind your upper front teeth. Release the air with a voiced sound."
+    },
+    {
+        "id": 15,
+        "category": "CONSONANT",
+        "subcategory": "F sound",
+        "phoneme": "/f/",
+        "words": [
+            {
+                "word": "fan",
+                "audio": "audio/fan.mp3",
+                "highlightedWord": "<span class=\"highlight\">f</span>an"
+            },
+            {
+                "word": "phone",
+                "audio": "audio/phone.mp3",
+                "highlightedWord": "<span class=\"highlight\">ph</span>one"
+            }
+        ],
+        "tip": "Gently bite your lower lip with your upper front teeth and blow air out continuously without voicing."
+    },
+    {
+        "id": 16,
+        "category": "CONSONANT",
+        "subcategory": "G sound",
+        "phoneme": "/g/",
+        "words": [
+            {
+                "word": "get",
+                "audio": "audio/get.mp3",
+                "highlightedWord": "<span class=\"highlight\">g</span>et"
+            },
+            {
+                "word": "guest",
+                "audio": "audio/guest.mp3",
+                "highlightedWord": "<span class=\"highlight\">g</span>uest"
+            }
+        ],
+        "tip": "Raise the back of your tongue to touch your soft palate, stopping the air, then release it with a voiced sound."
+    },
+    {
+        "id": 17,
+        "category": "CONSONANT",
+        "subcategory": "H sound",
+        "phoneme": "/h/",
+        "words": [
+            {
+                "word": "hat",
+                "audio": "audio/hat.mp3",
+                "highlightedWord": "<span class=\"highlight\">h</span>at"
+            },
+            {
+                "word": "happy",
+                "audio": "audio/happy.mp3",
+                "highlightedWord": "<span class=\"highlight\">h</span>appy"
+            }
+        ],
+        "tip": "Relax your mouth and tongue completely, open your vocal cords, and just exhale air outwards."
+    },
+    {
+        "id": 18,
+        "category": "CONSONANT",
+        "subcategory": "J sound",
+        "phoneme": "/d\u0292/",
+        "words": [
+            {
+                "word": "jewelry",
+                "audio": "audio/jewelry.mp3",
+                "highlightedWord": "<span class=\"highlight\">j</span>ewelry"
+            },
+            {
+                "word": "giraffe",
+                "audio": "audio/giraffe.mp3",
+                "highlightedWord": "<span class=\"highlight\">g</span>iraffe"
+            }
+        ],
+        "tip": "Push your lips forward. Touch your tongue to the roof of your mouth, then release it while making a voiced sound."
+    },
+    {
+        "id": 19,
+        "category": "CONSONANT",
+        "subcategory": "L sound",
+        "phoneme": "/l/",
+        "words": [
+            {
+                "word": "life",
+                "audio": "audio/life.mp3",
+                "highlightedWord": "<span class=\"highlight\">l</span>ife"
+            },
+            {
+                "word": "love",
+                "audio": "audio/love.mp3",
+                "highlightedWord": "<span class=\"highlight\">l</span>ove"
+            }
+        ],
+        "tip": "Press the tip of your tongue firmly against the alveolar ridge (just behind your upper front teeth) and voice the sound."
+    },
+    {
+        "id": 20,
+        "category": "CONSONANT",
+        "subcategory": "M sound",
+        "phoneme": "/m/",
+        "words": [
+            {
+                "word": "map",
+                "audio": "audio/map.mp3",
+                "highlightedWord": "<span class=\"highlight\">m</span>ap"
+            },
+            {
+                "word": "summer",
+                "audio": "audio/summer.mp3",
+                "highlightedWord": "su<span class=\"highlight\">mm</span>er"
+            }
+        ],
+        "tip": "Press your lips together lightly and let the voiced air flow out through your nose."
+    },
+    {
+        "id": 21,
+        "category": "CONSONANT",
+        "subcategory": "N sound",
+        "phoneme": "/n/",
+        "words": [
+            {
+                "word": "funny",
+                "audio": "audio/funny.mp3",
+                "highlightedWord": "fu<span class=\"highlight\">nn</span>y"
+            },
+            {
+                "word": "nose",
+                "audio": "audio/nose.mp3",
+                "highlightedWord": "<span class=\"highlight\">n</span>ose"
+            }
+        ],
+        "tip": "Place the tip of your tongue against the ridge behind your upper teeth and let the voiced air flow out through your nose."
+    },
+    {
+        "id": 22,
+        "category": "CONSONANT",
+        "subcategory": "P sound",
+        "phoneme": "/p/",
+        "words": [
+            {
+                "word": "pig",
+                "audio": "audio/pig.mp3",
+                "highlightedWord": "<span class=\"highlight\">p</span>ig"
+            },
+            {
+                "word": "please",
+                "audio": "audio/please.mp3",
+                "highlightedWord": "<span class=\"highlight\">p</span>lease"
+            }
+        ],
+        "tip": "Press your lips together to stop the air, then release it with a quick, unvoiced puff of air."
+    },
+    {
+        "id": 23,
+        "category": "CONSONANT",
+        "subcategory": "R sound",
+        "phoneme": "/r/",
+        "words": [
+            {
+                "word": "run",
+                "audio": "audio/run.mp3",
+                "highlightedWord": "<span class=\"highlight\">r</span>un"
+            },
+            {
+                "word": "carrot",
+                "audio": "audio/carrot.mp3",
+                "highlightedWord": "ca<span class=\"highlight\">rr</span>ot"
+            }
+        ],
+        "tip": "Pull your tongue back and curl the tip slightly upward without touching the roof of your mouth. Flare your lips slightly."
+    },
+    {
+        "id": 24,
+        "category": "CONSONANT",
+        "subcategory": "S sound",
+        "phoneme": "/s/",
+        "words": [
+            {
+                "word": "sun",
+                "audio": "audio/sun.mp3",
+                "highlightedWord": "<span class=\"highlight\">s</span>un"
+            },
+            {
+                "word": "circle",
+                "audio": "audio/circle.mp3",
+                "highlightedWord": "<span class=\"highlight\">c</span>ircle"
+            }
+        ],
+        "tip": "Bring your teeth close together, place your tongue just behind your teeth, and blow a continuous stream of unvoiced air."
+    },
+    {
+        "id": 25,
+        "category": "CONSONANT",
+        "subcategory": "T sound",
+        "phoneme": "/t/",
+        "words": [
+            {
+                "word": "top",
+                "audio": "audio/top.mp3",
+                "highlightedWord": "<span class=\"highlight\">t</span>op"
+            },
+            {
+                "word": "watched",
+                "audio": "audio/watched.mp3",
+                "highlightedWord": "watch<span class=\"highlight\">ed</span>"
+            }
+        ],
+        "tip": "Place the tip of your tongue against the ridge behind your upper teeth, stop the air, and release it with an unvoiced puff."
+    },
+    {
+        "id": 26,
+        "category": "CONSONANT",
+        "subcategory": "V sound",
+        "phoneme": "/v/",
+        "words": [
+            {
+                "word": "Vanessa",
+                "audio": "audio/vanessa.mp3",
+                "highlightedWord": "<span class=\"highlight\">V</span>anessa"
+            },
+            {
+                "word": "five",
+                "audio": "audio/five.mp3",
+                "highlightedWord": "fi<span class=\"highlight\">v</span>e"
+            }
+        ],
+        "tip": "Rest your upper teeth on your bottom lip and blow air out continuously while using your vocal cords."
+    },
+    {
+        "id": 27,
+        "category": "CONSONANT",
+        "subcategory": "W sound",
+        "phoneme": "/w/",
+        "words": [
+            {
+                "word": "went",
+                "audio": "audio/went.mp3",
+                "highlightedWord": "<span class=\"highlight\">w</span>ent"
+            },
+            {
+                "word": "quick",
+                "audio": "audio/quick.mp3",
+                "highlightedWord": "q<span class=\"highlight\">u</span>ick"
+            }
+        ],
+        "tip": "Round your lips into a tight circle and push them forward, then quickly relax them into the next vowel sound."
+    },
+    {
+        "id": 28,
+        "category": "CONSONANT",
+        "subcategory": "Y sound",
+        "phoneme": "/j/",
+        "words": [
+            {
+                "word": "yellow",
+                "audio": "audio/yellow.mp3",
+                "highlightedWord": "<span class=\"highlight\">y</span>ellow"
+            },
+            {
+                "word": "yes",
+                "audio": "audio/yes.mp3",
+                "highlightedWord": "<span class=\"highlight\">y</span>es"
+            }
+        ],
+        "tip": "Raise the middle of your tongue close to the roof of your mouth, then glide it down into the next vowel sound."
+    },
+    {
+        "id": 29,
+        "category": "CONSONANT",
+        "subcategory": "Z sound",
+        "phoneme": "/z/",
+        "words": [
+            {
+                "word": "zip",
+                "audio": "audio/zip.mp3",
+                "highlightedWord": "<span class=\"highlight\">z</span>ip"
+            },
+            {
+                "word": "scissors",
+                "audio": "audio/scissors.mp3",
+                "highlightedWord": "sci<span class=\"highlight\">ss</span>ors"
+            }
+        ],
+        "tip": "Bring your teeth together, place your tongue just behind them, and blow air continuously while using your voice."
+    },
+    {
+        "id": 30,
+        "category": "DIGRAPH",
+        "subcategory": "CH sound",
+        "phoneme": "/t\u0283/",
+        "words": [
+            {
+                "word": "touch",
+                "audio": "audio/touch.mp3",
+                "highlightedWord": "tou<span class=\"highlight\">ch</span>"
+            },
+            {
+                "word": "chin",
+                "audio": "audio/chin.mp3",
+                "highlightedWord": "<span class=\"highlight\">ch</span>in"
+            }
+        ],
+        "tip": "Push your lips forward, touch your tongue to the roof of your mouth, and release it with an unvoiced puff of air."
+    },
+    {
+        "id": 31,
+        "category": "DIGRAPH",
+        "subcategory": "SH sound",
+        "phoneme": "/\u0283/",
+        "words": [
+            {
+                "word": "ship",
+                "audio": "audio/ship.mp3",
+                "highlightedWord": "<span class=\"highlight\">sh</span>ip"
+            },
+            {
+                "word": "shape",
+                "audio": "audio/shape.mp3",
+                "highlightedWord": "<span class=\"highlight\">sh</span>ape"
+            }
+        ],
+        "tip": "Push your lips forward, keep your teeth close together, and blow a continuous stream of unvoiced air over your tongue."
+    },
+    {
+        "id": 32,
+        "category": "DIGRAPH",
+        "subcategory": "TH sound",
+        "phoneme": "/\u03b8/",
+        "words": [
+            {
+                "word": "thin",
+                "audio": "audio/thin.mp3",
+                "highlightedWord": "<span class=\"highlight\">th</span>in"
+            },
+            {
+                "word": "Thursday",
+                "audio": "audio/thursday.mp3",
+                "highlightedWord": "<span class=\"highlight\">Th</span>ursday"
+            }
+        ],
+        "tip": "Place the tip of your tongue between your upper and lower teeth and blow unvoiced air continuously."
+    },
+    {
+        "id": 33,
+        "category": "DIGRAPH",
+        "subcategory": "Voiced TH sound",
+        "phoneme": "/\u00f0/",
+        "words": [
+            {
+                "word": "this",
+                "audio": "audio/this.mp3",
+                "highlightedWord": "<span class=\"highlight\">th</span>is"
+            },
+            {
+                "word": "that",
+                "audio": "audio/that.mp3",
+                "highlightedWord": "<span class=\"highlight\">th</span>at"
+            }
+        ],
+        "tip": "Place the tip of your tongue between your teeth and blow air continuously while engaging your vocal cords."
+    },
+    {
+        "id": 34,
+        "category": "DIGRAPH",
+        "subcategory": "WH sound",
+        "phoneme": "/\u028d/",
+        "words": [
+            {
+                "word": "whip",
+                "audio": "audio/whip.mp3",
+                "highlightedWord": "<span class=\"highlight\">wh</span>ip"
+            },
+            {
+                "word": "when",
+                "audio": "audio/when.mp3",
+                "highlightedWord": "<span class=\"highlight\">wh</span>en"
+            }
+        ],
+        "tip": "Round your lips and blow out a quick, unvoiced puff of air (often pronounced similarly to /w/)."
+    },
+    {
+        "id": 35,
+        "category": "DIGRAPH",
+        "subcategory": "NG sound",
+        "phoneme": "/\u014b/",
+        "words": [
+            {
+                "word": "sing",
+                "audio": "audio/sing.mp3",
+                "highlightedWord": "si<span class=\"highlight\">ng</span>"
+            },
+            {
+                "word": "bring",
+                "audio": "audio/bring.mp3",
+                "highlightedWord": "bri<span class=\"highlight\">ng</span>"
+            }
+        ],
+        "tip": "Keep your mouth open and press the back of your tongue against the roof of your mouth, letting air flow through your nose."
+    },
+    {
+        "id": 36,
+        "category": "DIGRAPH",
+        "subcategory": "NK sound",
+        "phoneme": "/\u014bk/",
+        "words": [
+            {
+                "word": "sink",
+                "audio": "audio/sink.mp3",
+                "highlightedWord": "si<span class=\"highlight\">nk</span>"
+            },
+            {
+                "word": "blink",
+                "audio": "audio/blink.mp3",
+                "highlightedWord": "bli<span class=\"highlight\">nk</span>"
+            }
+        ],
+        "tip": "Combine the nasal /\u014b/ sound in the back of your throat, then finish with a sharp, unvoiced /k/ release."
+    },
+    {
+        "id": 37,
+        "category": "R-CONTROLLED VOWEL",
+        "subcategory": "ER sound",
+        "phoneme": "/\u025d/",
+        "words": [
+            {
+                "word": "bird",
+                "audio": "audio/bird.mp3",
+                "highlightedWord": "b<span class=\"highlight\">ir</span>d"
+            },
+            {
+                "word": "turn",
+                "audio": "audio/turn.mp3",
+                "highlightedWord": "t<span class=\"highlight\">ur</span>n"
+            }
+        ],
+        "tip": "Pull your tongue back, curl the sides up slightly, and voice the sound. Keep your lips relaxed."
+    },
+    {
+        "id": 38,
+        "category": "R-CONTROLLED VOWEL",
+        "subcategory": "AR sound",
+        "phoneme": "/\u0251r/",
+        "words": [
+            {
+                "word": "park",
+                "audio": "audio/park.mp3",
+                "highlightedWord": "p<span class=\"highlight\">ar</span>k"
+            },
+            {
+                "word": "dark",
+                "audio": "audio/dark.mp3",
+                "highlightedWord": "d<span class=\"highlight\">ar</span>k"
+            }
+        ],
+        "tip": "Drop your jaw wide open, then smoothly pull your tongue back and up for the R sound."
+    },
+    {
+        "id": 39,
+        "category": "R-CONTROLLED VOWEL",
+        "subcategory": "OR sound",
+        "phoneme": "/\u0254r/",
+        "words": [
+            {
+                "word": "fork",
+                "audio": "audio/fork.mp3",
+                "highlightedWord": "f<span class=\"highlight\">or</span>k"
+            },
+            {
+                "word": "pork",
+                "audio": "audio/pork.mp3",
+                "highlightedWord": "p<span class=\"highlight\">or</span>k"
+            }
+        ],
+        "tip": "Round your lips, then pull your tongue back and up to smoothly transition into the R sound."
+    },
+    {
+        "id": 40,
+        "category": "DIPHTHONG / SPECIAL",
+        "subcategory": "OI sound",
+        "phoneme": "/\u0254\u026a/",
+        "words": [
+            {
+                "word": "boy",
+                "audio": "audio/boy.mp3",
+                "highlightedWord": "b<span class=\"highlight\">oy</span>"
+            },
+            {
+                "word": "toy",
+                "audio": "audio/toy.mp3",
+                "highlightedWord": "t<span class=\"highlight\">oy</span>"
+            }
+        ],
+        "tip": "Round your lips, then stretch them into a smile while moving your tongue up and forward."
+    },
+    {
+        "id": 41,
+        "category": "DIPHTHONG / SPECIAL",
+        "subcategory": "OW sound",
+        "phoneme": "/a\u028a/",
+        "words": [
+            {
+                "word": "owl",
+                "audio": "audio/owl.mp3",
+                "highlightedWord": "<span class=\"highlight\">ow</span>l"
+            },
+            {
+                "word": "ouch",
+                "audio": "audio/ouch.mp3",
+                "highlightedWord": "<span class=\"highlight\">ou</span>ch"
+            }
+        ],
+        "tip": "Start with your mouth open wide, then round your lips tightly into a circle as you finish the sound."
+    },
+    {
+        "id": 42,
+        "category": "DIPHTHONG / SPECIAL",
+        "subcategory": "OO sound",
+        "phoneme": "/u\u02d0/",
+        "words": [
+            {
+                "word": "cool",
+                "audio": "audio/cool.mp3",
+                "highlightedWord": "c<span class=\"highlight\">oo</span>l"
+            },
+            {
+                "word": "pool",
+                "audio": "audio/pool.mp3",
+                "highlightedWord": "p<span class=\"highlight\">oo</span>l"
+            }
+        ],
+        "tip": "Round your lips tightly into a small circle, pull your tongue back and high, and push the sound forward."
+    },
+    {
+        "id": 43,
+        "category": "DIPHTHONG / SPECIAL",
+        "subcategory": "AW sound",
+        "phoneme": "/\u0254/",
+        "words": [
+            {
+                "word": "jaw",
+                "audio": "audio/jaw.mp3",
+                "highlightedWord": "j<span class=\"highlight\">aw</span>"
+            },
+            {
+                "word": "haul",
+                "audio": "audio/haul.mp3",
+                "highlightedWord": "h<span class=\"highlight\">au</span>l"
+            }
+        ],
+        "tip": "Open your jaw and round your lips slightly into an oval shape while keeping your tongue low."
+    },
+    {
+        "id": 44,
+        "category": "DIPHTHONG / SPECIAL",
+        "subcategory": "ZH sound",
+        "phoneme": "/\u0292/",
+        "words": [
+            {
+                "word": "television",
+                "audio": "audio/television.mp3",
+                "highlightedWord": "televi<span class=\"highlight\">s</span>ion"
+            },
+            {
+                "word": "measure",
+                "audio": "audio/measure.mp3",
+                "highlightedWord": "mea<span class=\"highlight\">s</span>ure"
+            }
+        ],
+        "tip": "Push your lips forward and blow air continuously while using your vocal cords (like /\u0283/ but voiced)."
+    }
+]

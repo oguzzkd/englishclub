@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>American English Pronunciation</title>
+    <meta name="description" content="Interactive American English Pronunciation Practice">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S81P122YRV"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-S81P122YRV');
+    </script>
+    
+</head>
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <h1>American English Pronunciation</h1>
+            <p>Listen, repeat, then say the word without the audio.</p>
+        </header>
+
+        <main id="slide-container" class="slide-container">
+            <!-- Slide content will be injected here by JS -->
+        </main>
+
+        <nav class="navigation">
+            <button id="prev-btn" class="nav-btn" disabled>Previous</button>
+            <span id="slide-indicator">1 / 45</span>
+            <button id="next-btn" class="nav-btn">Next</button>
+        </nav>
+    </div>
+    <!-- Celebration Overlay -->
+    <div id="celebration-overlay">
+        <canvas id="confetti-canvas"></canvas>
+        <div class="celebration-card fade-in">
+            <div class="celebration-emoji">🏆</div>
+            <h2>You did it!</h2>
+            <p>You've practised all <strong>44 sounds</strong> of American English.<br>Keep it up and your pronunciation will be amazing!</p>
+            <button class="celebration-btn" onclick="closeCelebration()">Start Over</button>
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>

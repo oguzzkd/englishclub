@@ -103,14 +103,19 @@ body {
     animation-delay: 0s;
 }
 
-.location-window {
+.practice-window {
     align-self: center;
     animation-delay: 1s;
 }
 
+.location-window {
+    align-self: center;
+    animation-delay: 2s;
+}
+
 .contact-window {
     align-self: flex-end;
-    animation-delay: 2s;
+    animation-delay: 3s;
 }
 
 .window-header {
